@@ -48,6 +48,7 @@ An AI-powered document intelligence platform designed to help employees and orga
 
 * Java
 * SQL
+* Python
 
 ### Backend
 
