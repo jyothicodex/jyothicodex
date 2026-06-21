@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jyothi Kumari</h1>
 
 <h3 align="center">
-🚀 Aspiring Software Engineer | Java Backend Developer | Spring Boot Learner | Open Source Contributor
+🚀 Aspiring Software Engineer | Java Backend Developer | Open Source Contributor
 </h3>
 
 <p align="center">
@@ -99,23 +99,11 @@ Become a skilled Java Backend Engineer and build impactful software.
 
 🤖 AI Research Assistant
 
-🍽️ Food Rescue Network *(Hackathon Project)*
+
 
 ---
 
-# 📖 Learning Repositories
 
-📘 Java Notes
-
-📗 Spring Boot Notes
-
-📙 DSA Notes
-
-📕 DBMS Notes
-
-📒 System Design Notes
-
----
 
 
 # 🌐 Connect With Me
