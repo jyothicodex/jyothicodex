@@ -117,21 +117,12 @@ Become a skilled Java Backend Engineer and build impactful software.
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=jyothicodex&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=jyothicodex&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jyothicodex&layout=compact&theme=tokyonight)
-
----
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jyothi-kumari-a60546371/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](jyothi92271@gmail.com)
 
 ---
 
