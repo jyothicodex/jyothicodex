@@ -14,7 +14,7 @@ Passionate about building scalable backend applications, solving real-world prob
 
 🔭 **Currently Building**
 - Spring Boot Backend Projects
-- PolicyIQ – AI Powered Policy Assistant
+
 
 🌱 **Currently Learning**
 - Java Backend Development
@@ -26,10 +26,6 @@ Passionate about building scalable backend applications, solving real-world prob
 
 🤝 **Open Source**
 - GSSoC 2026 Contributor
-
-💻 **Coding**
-- Solving DSA in Java
-- Following Striver A2Z Sheet
 
 🏆 **Interests**
 - Hackathons
@@ -92,10 +88,6 @@ Become a skilled Java Backend Engineer and build impactful software.
 ---
 
 # 📌 Featured Projects
-
-🚀 PolicyIQ *(In Progress)*
-
-📚 Spring Boot Library Management System *(In Progress)*
 
 🤖 AI Research Assistant
 
