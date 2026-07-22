@@ -66,7 +66,6 @@ Passionate about building scalable software, exploring AI agent systems, and sol
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jyothi-kumari-a60546371)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jyothi92271@gmail.com)
 
 📧 **Email:** **jyothi92271@gmail.com**
 
