@@ -70,7 +70,7 @@ An AI agent platform focused on modular architecture, intelligent workflows, and
 ## 🌐 Connect With Me
 
 * 💼 LinkedIn: https://linkedin.com/in/jyothi-kumari-a60546371
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+*  📧 Email: jyothi92271@gmail.com
 
 ---
 
