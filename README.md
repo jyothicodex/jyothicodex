@@ -1,115 +1,77 @@
-<h1 align="center">Hi 👋, I'm Jyothi Kumari</h1>
+# Hi there, I'm **Jyothi Kumari** 👋
 
-<h3 align="center">
-🚀 Aspiring Software Engineer | Java Backend Developer | Open Source Contributor
-</h3>
+### 🚀 Aspiring Software Engineer | Java Developer | Open Source Contributor | AI Agent Enthusiast
 
-<p align="center">
-Passionate about building scalable backend applications, solving real-world problems through technology, and continuously learning through projects, hackathons, and open source.
-</p>
+Passionate about building scalable applications, exploring AI agent systems, and solving real-world problems through clean and efficient code. I enjoy working with Java, Spring Boot, full-stack development, and AI-powered applications while continuously learning modern software engineering practices.
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-🔭 **Currently Building**
-- Spring Boot Backend Projects
+* 🔭 **Currently Building**
 
+  * **AgentGrid** – An AI agent platform for building, orchestrating, and experimenting with intelligent multi-agent workflows.
 
-🌱 **Currently Learning**
-- Java Backend Development
-- Spring Boot
-- REST APIs
-- MySQL
-- Docker
-- System Design
+* 🌱 **Currently Learning**
 
-🤝 **Open Source**
-- GSSoC 2026 Contributor
+  * Spring Boot
+  * System Design
+  * Docker & Microservices
+  * Data Structures & Algorithms
 
-🏆 **Interests**
-- Hackathons
-- AI Applications
-- Backend Development
-- Open Source
+* 🤝 **Open Source**
 
-📚 **Learning in Public**
-- Sharing Notes
-- Building Projects
-- Documenting Everything I Learn
+  * Contributing through GSSoC and community projects.
 
-🎯 **Goal**
-Become a skilled Java Backend Engineer and build impactful software.
+* 🎯 **Career Goal**
+
+  * To become a Software Engineer building scalable backend systems and intelligent AI-powered applications.
 
 ---
 
-# 🚀 Current Focus
+## 💻 Tech Stack
 
-✔ Spring Boot
+**Languages**
 
-✔ REST APIs
+Java • Python • TypeScript • SQL
 
-✔ MySQL
+**Backend**
 
-✔ PolicyIQ
+Spring Boot • REST APIs
 
-✔ Open Source
+**Frontend**
 
-✔ DSA
+React
 
----
+**Database**
 
-# 💻 Tech Stack
+MySQL
 
-### Languages
+**AI**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+Google Gemini • RAG • AI Agents
 
-### Backend
+**Tools**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
+Git • Docker • Postman • IntelliJ IDEA
 
 ---
 
-# 📌 Featured Projects
+## 🚀 Featured Project
 
-🤖 AI Research Assistant
+### 🤖 AgentGrid
 
+An AI agent platform focused on modular architecture, intelligent workflows, and scalable agent-based systems.
 
-
----
-
-
-
-
-# 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jyothi-kumari-a60546371/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](jyothi92271@gmail.com)
+**Tech Stack:** TypeScript • React • AI Agents
 
 ---
 
-<p align="center">
+## 🌐 Connect With Me
 
-⭐ Thanks for visiting my profile! ⭐
+* 💼 LinkedIn: https://linkedin.com/in/jyothi-kumari-a60546371
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
 
-<i>"Code. Learn. Build. Repeat."</i>
+---
 
-</p>
+> **"Code. Learn. Build. Repeat."** 🚀
