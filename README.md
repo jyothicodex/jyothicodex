@@ -1,6 +1,6 @@
 # Hi there, I'm Jyothi Kumari 👋
 
-### 🚀 Aspiring Software Engineer | Java Developer | Open Source Contributor | AI Agent Enthusiast
+### 🚀 Aspiring Software Engineer  | Open Source Contributor | AI Agent Enthusiast
 
 Passionate about building scalable software, exploring AI agent systems, and solving real-world problems through clean, efficient code. I'm currently focused on Java backend development, full-stack applications, AI-powered solutions, and strengthening my Data Structures & Algorithms skills.
 
